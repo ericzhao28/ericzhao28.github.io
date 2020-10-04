@@ -12,4 +12,4 @@ I am a graduate research intern with the [AI Economist team](https://www.salesfo
 My research focuses on developing principled algorithms for efficient data collection and re-use by applying robust optimization, active learning, and domain adaptation techniques.
 
 I studied computer science as an undergraduate student at the California Institute of Technology (better known as Caltech), where I worked on machine learning and economics research with some great mentors including [Adam Wierman](https://adamwierman.com/) and [Yisong Yue](http://www.yisongyue.com/).
-I've also been fortunate to have interned at leading companies building real world machine learning products, including [dialogue agents at Google](https://dialogflow.cloud.google.com/), [self-driving cars at Uber](https://www.uber.com/us/en/atg/), and anomaly detection at [Bloomberg LP](https://www.bloomberg.com/company/).
+I've also been fortunate to have interned at leading companies building real world machine learning products, including [dialogue agents at Google](https://dialogflow.cloud.google.com/) and [self-driving cars at Uber](https://www.uber.com/us/en/atg/).
