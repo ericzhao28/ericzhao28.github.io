@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, California Institute of Technology, 2020
-  * Upper-div courses include applied math (ACM 104, 116, 158, 107), machine learning (CS 155, 156ab, 159, 165).
+<!--  * Upper-div courses include applied math (ACM 104, 116, 158, 107), machine learning (CS 155, 156ab, 159, 165). -->
 <!--  * Studied matching markets (Adam Wierman), imitation learning (Yisong Yue), active learning (Anima Anandkumar, Yisong Yue). -->
 <!-- * Club Memberships: Caltech Robotics Club, Caltech Student Investment Fund.* 7-time hackathon winner, including at Caltech, UCLA, Stanford. -->
 
@@ -49,8 +49,7 @@ Groups
   * Researched active learning theory with Anima Anandkumar, Yisong Yue. First-author of paper appearing in ICML workshop and under review for conference.
   * Separately, researched hierarchical imitation learning for Sim2Real.
 * 2018-2019: Caltech Rigorous Systems Research Group
-  * Researched game theory of exit options in matching markets under Adam Wierman. Analyzed effects of our school choice policy recommendations in local school system.
-  * Presented our work at University symposium and department showcase.
+  * Researched game theory of exit options in matching markets under Adam Wierman. Analyzed effects of our school choice policy recommendations in local school system. Presented our work at University symposium and department showcase.
 * 2017: Caltech Center for Data Driven Discovery
   * Investigated deep neural architectures for botnet detection under Julian Bunn. Implemented recurrent neural networks (Tensorflow), analyzed malware (Wireshark).
 
@@ -60,7 +59,7 @@ Startups
   * Validated fintech startup idea to issue credit cards to restaurants and food vendors. Mentored by Benjamin Jun (HVF) and Max Levchin (Affirm, Paypal cofounder).
 * 2017-2018: Cofounder @ Whimmly Inc.
   * Cofounded enterprise SAAS startup automating personal shopper services. Built and deployed initial product w/ consumer engagement 3x industry average.
-  * Landed enterprise clients, including a Fortune 500; launched storefront tests. Cofounded in prestigious Harvard Business School i-Lab, eventually accepted in MassChallenge accelerator and a semifinalist in Harvard’s 2018 Innovation Challenge.
+  * Landed enterprise clients, including a Fortune 500. Cofounded in prestigious Harvard Business School i-Lab, eventually accepted in MassChallenge accelerator and a semifinalist in Harvard’s 2018 Innovation Challenge.
 * 2017: Cofounder @ Brewgorithm, An Anheuser-Busch Inbev (ABI) Company
   * Cofounded startup selling the data science of beer marketing. Built initial product’s full-stack web app, NLP models and cloud infrastructure.
   * Joined ABI’s accelerator after winning pitch competition; raised follow-on round and
