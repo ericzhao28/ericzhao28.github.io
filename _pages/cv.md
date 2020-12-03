@@ -12,15 +12,19 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, California Institute of Technology, 2020
+  * Research topics: interactive machine learning (advised by Profs. Yisong Yue, Anima Anandkumar) and matching markets (advised by Prof. Adam Wierman).
+  * Teacher's assistant: *CS155: Machine Learning and Data Mining* (Yisong Yue, 2019-20), *CS144: Network Structures and Economics* (Adam Wierman, 2019-20).
+  * Graduate-level courses in probability, linear algebra, linear analysis, statistical learning, statistical inference, machine learning (4-course track), reinforcement learning.
+  * Other courses include calculus, real analysis, discrete math, abstract algebra, mathematical logic, quantum mechanics, algorithms, and topics in economics.
 <!--  * Upper-div courses include applied math (ACM 104, 116, 158, 107), machine learning (CS 155, 156ab, 159, 165). -->
 <!--  * Studied matching markets (Adam Wierman), imitation learning (Yisong Yue), active learning (Anima Anandkumar, Yisong Yue). -->
 <!-- * Club Memberships: Caltech Robotics Club, Caltech Student Investment Fund.* 7-time hackathon winner, including at Caltech, UCLA, Stanford. -->
 
 Research
 ======
-* **Eric Zhao**, Alexander Trott, Stephan Zheng, Caiming Xiong. (2020) "ERMAS: Learning Policies Robust to Reality Gaps in Multi-Agent Simulations". Under review.
-* **Eric Zhao**, Anqi Liu, Animashree Anandkumar, Yisong Yue. (2020) "Active Learning under Label Shift". Partial version appeared in the ICML 2020 Workshop on Real World Experiment Design and Active Learning, July 2020. Full version under review.
-* **Eric Zhao**, Erich Liang, Adam Wierman, Laura Doval, Federico Echenique (2019) "Incentivizing Participation in School Choice Programs". Appeared in Carver Mead Symposium 2019 (poster) and Caltech department showcase (best student poster).
+* **Eric Zhao**, Alexander Trott, Stephan Zheng, Caiming Xiong. *"ERMAS: Learning Policies Robust to Reality Gaps in Multi-Agent Simulations,"* submitted to the 2021 International Conference on Learning Representations (ICLR), Sept. 2020. [Link](https://openreview.net/forum?id=uIc4W6MtbDA).
+* **Eric Zhao**, Anqi Liu, Animashree Anandkumar, Yisong Yue. *"Active Learning under Label Shift,"* presented at the ICML 2020 Workshop on Real World Experiment Design and Active Learning, June 2020. Also submitted to the 2021 International Conference on Artificial Intelligence and Statistics (AIStats). [Preprint link](https://arxiv.org/abs/2007.08479), [open-source link](https://github.com/ericzhao28/alls).
+* **Eric Zhao**, Erich Liang, Adam Wierman, Laura Doval, Federico Echenique (2019) *"Incentivizing Participation in School Choice Programs,"* presented (poster) at 2019 Carver Mead Symposium. Best Research Poster Presentation at 2019 Caltech Meeting of the Minds.
 * **Eric Zhao**, Julian Bunn. (2017) "NetDetect: Recurrent Neural Architectures for Botnet Detection" short paper, funded by Microsoft Azure Research Award.
 
 Work experience
