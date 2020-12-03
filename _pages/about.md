@@ -9,9 +9,10 @@ redirect_from:
 ---
 
 I am a graduate research intern with the [AI Economist team](https://www.salesforce.com/news/stories/introducing-the-ai-economist-why-salesforce-researchers-are-applying-machine-learning-to-economics/) at [Salesforce Research](https://einstein.ai/), where I work on robust algorithms for reinforcement learning in multi-agent simulations.
-My research aims to make machine learning systems more robust and reliable.
+
+My research broadly aims to develop more robust and reliable machine learning systems.
 I am particularly interested in:
-* Rethinking how we collect data new algorithms for interactive machine learning, active learning, and domain adaptation.
+* Rethinking how we collect data with new algorithms for interactive machine learning, active learning, and domain adaptation.
 * Designing more robust ML systems, particularly for ML+Economics use-cases.
 * Exploring the mathematical connections between robustness, fairness and learning.
 
