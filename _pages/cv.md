@@ -25,23 +25,25 @@ Research
 * **Eric Zhao**, Alexander Trott, Stephan Zheng, Caiming Xiong. *"ERMAS: Learning Policies Robust to Reality Gaps in Multi-Agent Simulations,"* submitted to the 2021 International Conference on Learning Representations (ICLR), Sept. 2020. [Link](https://openreview.net/forum?id=uIc4W6MtbDA).
 * **Eric Zhao**, Anqi Liu, Animashree Anandkumar, Yisong Yue. *"Active Learning under Label Shift,"* presented at the ICML 2020 Workshop on Real World Experiment Design and Active Learning, June 2020. Also submitted to the 2021 International Conference on Artificial Intelligence and Statistics (AIStats). [Preprint link](https://arxiv.org/abs/2007.08479), [open-source link](https://github.com/ericzhao28/alls).
 * **Eric Zhao**, Erich Liang, Adam Wierman, Laura Doval, Federico Echenique (2019) *"Incentivizing Participation in School Choice Programs,"* presented (poster) at 2019 Carver Mead Symposium. Best Research Poster Presentation at 2019 Caltech Meeting of the Minds.
-* **Eric Zhao**, Julian Bunn. (2017) "NetDetect: Recurrent Neural Architectures for Botnet Detection" short paper, funded by Microsoft Azure Research Award.
+* **Eric Zhao**, Julian Bunn. *"NetDetect: Recurrent Neural Architectures for Botnet Detection,"* short technical report, June 2017. Microsoft Azure Research Award. [Open-source link](https://github.com/ericzhao28/NetDetect).
 
 Work experience
 ======
-* Summer 2020: Research Intern @ **Salesforce Research**.
+* Summer 2020: Graduate Student Research Intern @ **Salesforce Research**.
   * Researched deep reinforcement learning of economic policies (AI Economist Moonshot Team).
-  * First-authored paper on robust reinforcement learning for multi-agent simulations. Designed new multi-agent reinforcement learning algorithm, filed patent 63/087,067. 
-  * Ran high-cost large-scale deep reinforcement learning experiments (PyTorch, RLLib, Kubernetes). 
+  * Proposed a novel robustness objective for multi-agent reinforcement learning and efficiently solved its dual with a novel policy gradient algorithm.
+  * Ran large-scale deep reinforcement learning experiments (PyTorch, RLLib).
+  * First-author of research paper and Salesforce patent no. 63/087,067 on my work.
 
-* Summer 2019: Autonomy Intern @ **Uber ATG**.
-  * Developed computer vision algorithms for self-driving cars (C++, Eigen, OpenCV).
-  * Improved worst-case blockage localization range by 20% using joint LIDAR and stereo vision.
-  * Deployed and tested my algorithms in live field tests on real vehicles.
+* Summer 2019: Autonomous Capabilities Intern Intern @ **Uber ATG**.
+  * Developed robust depth estimation algorithms for self-driving cars (C++, Eigen).
+  * Extended blockage localization range by up to 20% with joint stereo vision+LiDAR.
+  * Implemented my models on real autonomous vehicles and oversaw live track tests.
 
-* Spring 2019: Cloud AI Intern @ **Google Inc.**
-  * Researched error handling mechanisms for machine learning dialogue agents (Dialogflow Team).
-  * Ran reinforcement learning experiments in user simulations (Tensorflow, TF-Agents).
+* Spring 2019: Cloud AI Software Engineering Intern @ **Google Inc.**
+  * Designed and implemented reinforcement learning framework that teaches error-handling to autonomous dialogue agents (Tensorflow, TF-Agents).
+  * Improved error detection rates by >10% by repurposing active learning methods.
+  * Investigated use of weakly supervised human feedback for learning “on the long tail”.
 
 * Summer 2018: Data & Software Engineering Intern @ **Bloomberg Inc.** 
   * Developed anomaly detection models for financial analytics pipeline (Spark, Scala, Kafka).
@@ -50,30 +52,36 @@ Work experience
 Groups
 ======
 * 2019-2020: Caltech Optimization and Learning Group
-  * Researched active learning theory with Anima Anandkumar, Yisong Yue. First-author of paper appearing in ICML workshop and under review for conference.
-  * Separately, researched hierarchical imitation learning for Sim2Real.
+  * Investigated the effects of distribution shift on active learning algorithms with Profs. Yisong Yue and Anima Anandkumar. My work led to a publication.
+  * Investigated imitation learning and learning-to-search algorithms; explored the use of hierarchical imitation learning for efficient Sim2Real adaptation.
 * 2018-2019: Caltech Rigorous Systems Research Group
-  * Researched game theory of exit options in matching markets under Adam Wierman. Analyzed effects of our school choice policy recommendations in local school system. Presented our work at University symposium and department showcase.
+  * Researched the effects of private schools on public school lotteries.
+  * With Prof. Adam Wierman, employed mean field theory and game theory to analyze how susceptible different lottery designs are to private school influence.
 * 2017: Caltech Center for Data Driven Discovery
-  * Investigated deep neural architectures for botnet detection under Julian Bunn. Implemented recurrent neural networks (Tensorflow), analyzed malware (Wireshark).
+  * Researched recurrent neural networks for botnet detection with Dr. Julian Bunn.
+  * Analyzed botnets (Wireshark), designed & finetuned neural networks (Tensorflow).
 
 Startups
 ======
 * Winter 2018: Visitor @ Hard Valuable Fun (HVF)
-  * Validated fintech startup idea to issue credit cards to restaurants and food vendors. Mentored by Benjamin Jun (HVF) and Max Levchin (Affirm, Paypal cofounder).
-* 2017-2018: Cofounder @ Whimmly Inc.
-  * Cofounded enterprise SAAS startup automating personal shopper services. Built and deployed initial product w/ consumer engagement 3x industry average.
-  * Landed enterprise clients, including a Fortune 500. Cofounded in prestigious Harvard Business School i-Lab, eventually accepted in MassChallenge accelerator and a semifinalist in Harvard’s 2018 Innovation Challenge.
-* 2017: Cofounder @ Brewgorithm, An Anheuser-Busch Inbev (ABI) Company
-  * Cofounded startup selling the data science of beer marketing. Built initial product’s full-stack web app, NLP models and cloud infrastructure.
-  * Joined ABI’s accelerator after winning pitch competition; raised follow-on round and
-exited through acquisition back to ABI ($750k in accelerator+internal funding).
+  * Explored idea to develop credit cards that reward patronage of local restaurants; mentored by Max Levchin (Affirm, Paypal cofounder) and Benjamin Jun (HVF).
+* 2017-2018: Cofounder, CEO @ Whimmly Inc.
+  * Cofounded startup building “personal shopper” bots for eCommerce websites.
+  * Led team of 4, built a MVP, ran storefront tests with clients incl. a Fortune 500.
+  * Accepted into MassChallenge accelerator (<10% acceptance), achieved 3x industry-average consumer engagement, semifinalist in Harvard’s 2018 Innovation Challenge.
+* 2017: Cofounder, CDO @ Brewgorithm, An Anheuser-Busch Inbev (ABI) Company
+  * Cofounded startup automating market analysis for the “long-tail” of alcohol products; joined Anheuser-Busch (AB) accelerator after winning pitch competition as intern.
+  * Built proof-of-concept using NLP data from recently acquired craft beer review site.
+  * Raised follow-on round, exited back to AB ($100-750k in internal funding).
 
 Service and Teaching
 ======
 * Winter 2019-2020: Teacher’s Assistant for CS155: Machine Learning and Data Mining (Professor: Yisong Yue)
 * Winter 2019-2020: Teacher's Assistant for CS144: Network Structures and Economics (Professor: Adam Wierman)
-* Reviewer, AIStats 2021
-* Youth Competitive Programming Circle: President 2013-2016
-  * Created and led a student-run education non-profit in high school. Developed programmable Minecraft robots to teach coding skills to youth.
-  * Ran bootcamps for underrepresented students in 10+ schools and community centers. Raised funding/support from Microsoft, Slack and Github for our 501(c)(3) org.
+* Conference Reviewer, AIStats 2021
+* Volunteer 2019, Caltech Y (non-profit org.)
+* Council Member 2018-19, Caltech CMS Partners Advisory Council
+  * Organized networking dinners and other industry events for Caltech students.
+* President 2013-16, Youth Competitive Programming Circle (non-profit org.)
+  * Cofounded a student-run 501(c)(3) organization developing computer science education materials for under-funded schools and public libraries.
+  * Ran “Minecraft coding” bootcamps at 10+ schools and community centers.
