@@ -22,8 +22,8 @@ Education
 
 Research
 ======
+* **Eric Zhao**, Anqi Liu, Animashree Anandkumar, Yisong Yue. *"Active Learning under Label Shift,"* to appear at the 2021 International Conference on Artificial Intelligence and Statistics (AIStats). Partial version presented at the ICML 2020 Workshop on Real World Experiment Design and Active Learning, June 2020. [Preprint link](https://arxiv.org/abs/2007.08479), [open-source link](https://github.com/ericzhao28/alls).
 * **Eric Zhao**, Alexander Trott, Stephan Zheng, Caiming Xiong. *"ERMAS: Learning Policies Robust to Reality Gaps in Multi-Agent Simulations,"* submitted to the 2021 International Conference on Learning Representations (ICLR), Sept. 2020. [Link](https://openreview.net/forum?id=uIc4W6MtbDA).
-* **Eric Zhao**, Anqi Liu, Animashree Anandkumar, Yisong Yue. *"Active Learning under Label Shift,"* presented at the ICML 2020 Workshop on Real World Experiment Design and Active Learning, June 2020. Also submitted to the 2021 International Conference on Artificial Intelligence and Statistics (AIStats). [Preprint link](https://arxiv.org/abs/2007.08479), [open-source link](https://github.com/ericzhao28/alls).
 * **Eric Zhao**, Erich Liang, Adam Wierman, Laura Doval, Federico Echenique (2019) *"Incentivizing Participation in School Choice Programs,"* presented (poster) at 2019 Carver Mead Symposium. Best Research Poster Presentation at 2019 Caltech Meeting of the Minds.
 * **Eric Zhao**, Julian Bunn. *"NetDetect: Recurrent Neural Architectures for Botnet Detection,"* short technical report, June 2017. Microsoft Azure Research Award. [Open-source link](https://github.com/ericzhao28/NetDetect).
 
