@@ -12,8 +12,8 @@ I am a computer science PhD student at the University of California, Berkeley. I
 
 My research broadly aims to develop more robust and reliable machine learning systems.
 I am particularly interested in:
+* Designing more robust ML systems that are resilient to real-world conditions and game-theoretic effects.
 * Rethinking how we collect data with new algorithms for interactive machine learning, active learning, and domain adaptation.
-* Designing more robust ML systems, particularly for ML+Economics use-cases.
 * Exploring the mathematical connections between robustness, fairness and learning.
 
 I studied computer science as an undergraduate student at the California Institute of Technology (better known as Caltech), where I worked on machine learning and economics research with some great mentors including [Adam Wierman](https://adamwierman.com/), [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/), and [Yisong Yue](http://www.yisongyue.com/).
