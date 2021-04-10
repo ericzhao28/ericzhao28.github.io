@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer science PhD student at the University of California, Berkeley. I am affiliated with the [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/) lab, where I am coadvised by Nika Haghtalab and Michael Jordan.
+I am a computer science PhD student at the University of California, Berkeley. I am a member of the [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/) lab, where I am coadvised by Nika Haghtalab and Michael Jordan.
 
 My research broadly aims to develop more robust and reliable machine learning systems.
 I am particularly interested in:
